@@ -1,4 +1,4 @@
-# Mosaic React
+# SoloPlus V2
 
 React landing page template designed by Cruip.
 
